@@ -1,0 +1,15 @@
+/home/relier/Projetos/Relier/AtividadesCurso/EnumeracoesEComposicoes/Course/bin/Debug/net6.0/EnumeracoesEComposicoes
+/home/relier/Projetos/Relier/AtividadesCurso/EnumeracoesEComposicoes/Course/bin/Debug/net6.0/EnumeracoesEComposicoes.deps.json
+/home/relier/Projetos/Relier/AtividadesCurso/EnumeracoesEComposicoes/Course/bin/Debug/net6.0/EnumeracoesEComposicoes.runtimeconfig.json
+/home/relier/Projetos/Relier/AtividadesCurso/EnumeracoesEComposicoes/Course/bin/Debug/net6.0/EnumeracoesEComposicoes.dll
+/home/relier/Projetos/Relier/AtividadesCurso/EnumeracoesEComposicoes/Course/bin/Debug/net6.0/ref/EnumeracoesEComposicoes.dll
+/home/relier/Projetos/Relier/AtividadesCurso/EnumeracoesEComposicoes/Course/bin/Debug/net6.0/EnumeracoesEComposicoes.pdb
+/home/relier/Projetos/Relier/AtividadesCurso/EnumeracoesEComposicoes/Course/obj/Debug/net6.0/EnumeracoesEComposicoes.csproj.AssemblyReference.cache
+/home/relier/Projetos/Relier/AtividadesCurso/EnumeracoesEComposicoes/Course/obj/Debug/net6.0/EnumeracoesEComposicoes.GeneratedMSBuildEditorConfig.editorconfig
+/home/relier/Projetos/Relier/AtividadesCurso/EnumeracoesEComposicoes/Course/obj/Debug/net6.0/EnumeracoesEComposicoes.AssemblyInfoInputs.cache
+/home/relier/Projetos/Relier/AtividadesCurso/EnumeracoesEComposicoes/Course/obj/Debug/net6.0/EnumeracoesEComposicoes.AssemblyInfo.cs
+/home/relier/Projetos/Relier/AtividadesCurso/EnumeracoesEComposicoes/Course/obj/Debug/net6.0/EnumeracoesEComposicoes.csproj.CoreCompileInputs.cache
+/home/relier/Projetos/Relier/AtividadesCurso/EnumeracoesEComposicoes/Course/obj/Debug/net6.0/EnumeracoesEComposicoes.dll
+/home/relier/Projetos/Relier/AtividadesCurso/EnumeracoesEComposicoes/Course/obj/Debug/net6.0/ref/EnumeracoesEComposicoes.dll
+/home/relier/Projetos/Relier/AtividadesCurso/EnumeracoesEComposicoes/Course/obj/Debug/net6.0/EnumeracoesEComposicoes.pdb
+/home/relier/Projetos/Relier/AtividadesCurso/EnumeracoesEComposicoes/Course/obj/Debug/net6.0/EnumeracoesEComposicoes.genruntimeconfig.cache
